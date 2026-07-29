@@ -1,12 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1e3a8a,50:2563eb,100:7c3aed&text=Giovanni%20Dassi&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=36&desc=Front-end%20%C2%B7%20Produto%20%C2%B7%20IA&descAlign=50&descAlignY=58&descSize=17&animation=fadeIn" width="100%">
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=6EA8FE&center=true&vCenter=true&width=620&height=58&lines=Construo%20aplica%C3%A7%C3%B5es%20web%20de%20ponta%20a%20ponta%3BReact%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Supabase%3BIA%20como%20multiplicador%2C%20n%C3%A3o%20como%20muleta%3BDo%20primeiro%20commit%20ao%20deploy%20em%20produ%C3%A7%C3%A3o" alt="O que eu faço">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=6EA8FE&center=true&vCenter=true&width=620&height=58&lines=Construo%20aplica%C3%A7%C3%B5es%20web%20de%20ponta%20a%20ponta%3BReact%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Supabase%3BIA%20como%20multiplicador%2C%20n%C3%A3o%20como%20muleta%3BDo%20primeiro%20commit%20ao%20deploy%20em%20produ%C3%A7%C3%A3o" alt="O que eu faço">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanni--dassi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-dassi) [![E-mail](https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannidassi@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-(15)_99681--0270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996810270)
-
-</div>
+<p align="center"><a href="https://www.linkedin.com/in/giovanni-dassi"><img src="https://img.shields.io/badge/LinkedIn-giovanni--dassi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:giovannidassi@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>&nbsp;<a href="https://wa.me/5515996810270"><img src="https://img.shields.io/badge/WhatsApp-15_99681--0270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a></p>
 
 ---
 
