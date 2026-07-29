@@ -1,10 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1e3a8a,50:2563eb,100:7c3aed&text=Giovanni%20Dassi&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=36&desc=Front-end%20%C2%B7%20Produto%20%C2%B7%20IA&descAlign=50&descAlignY=58&descSize=17&animation=fadeIn" width="100%">
+<h1 align="center">Giovanni Dassi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=6EA8FE&center=true&vCenter=true&width=620&height=58&lines=Construo%20aplica%C3%A7%C3%B5es%20web%20de%20ponta%20a%20ponta%3BReact%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Supabase%3BIA%20como%20multiplicador%2C%20n%C3%A3o%20como%20muleta%3BDo%20primeiro%20commit%20ao%20deploy%20em%20produ%C3%A7%C3%A3o" alt="O que eu faço">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=29A37A&center=true&vCenter=true&width=620&height=52&lines=Construo%20aplica%C3%A7%C3%B5es%20web%20de%20ponta%20a%20ponta%3BReact%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Supabase%3BIA%20como%20multiplicador%2C%20n%C3%A3o%20como%20muleta%3BDo%20primeiro%20commit%20ao%20deploy%20em%20produ%C3%A7%C3%A3o" alt="O que eu faço">
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/giovanni-dassi"><img src="https://img.shields.io/badge/LinkedIn-giovanni--dassi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:giovannidassi@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>&nbsp;<a href="https://wa.me/5515996810270"><img src="https://img.shields.io/badge/WhatsApp-15_99681--0270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a></p>
+<div align="center">
+<table><tr>
+<td><a href="https://giovannidassi.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-giovannidassi.com.br-29A37A?style=for-the-badge&labelColor=131720&logo=googlechrome&logoColor=29A37A" alt="Portfólio"></a></td>
+<td><a href="https://www.linkedin.com/in/giovanni-dassi"><img src="https://img.shields.io/badge/LinkedIn-giovanni--dassi-29A37A?style=for-the-badge&labelColor=131720&logo=linkedin&logoColor=29A37A" alt="LinkedIn"></a></td>
+<td><a href="mailto:giovannidassi@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-29A37A?style=for-the-badge&labelColor=131720&logo=gmail&logoColor=29A37A" alt="E-mail"></a></td>
+<td><a href="https://wa.me/5515996810270"><img src="https://img.shields.io/badge/WhatsApp-15_99681--0270-29A37A?style=for-the-badge&labelColor=131720&logo=whatsapp&logoColor=29A37A" alt="WhatsApp"></a></td>
+</tr></table>
+</div>
 
 ---
 
@@ -33,13 +40,11 @@ produção, e tocando projetos próprios de web e produto.
 
 ---
 
-## Atividade
+## Contribuições
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovannicdbusiness&bg_color=0d1117&color=6EA8FE&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contribuicoes%20recentes" alt="Grafico de contribuicoes">
-
-<img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg" alt="Snake das contribuicoes">
+<img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg" alt="Snake das contribuições">
 
 <sub>A maior parte do meu trabalho vive em repositórios privados de clientes e produto.<br>
 Os repos públicos aqui embaixo são o que eu posso mostrar por inteiro, código e tudo.</sub>
@@ -53,5 +58,3 @@ Os repos públicos aqui embaixo são o que eu posso mostrar por inteiro, código
 **Aberto a vagas remotas de front-end e a projetos freelance de web e produto.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,50:2563eb,100:1e3a8a" width="100%">

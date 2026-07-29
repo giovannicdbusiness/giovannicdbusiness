@@ -16,14 +16,16 @@ jobs:
       contents: write
 
     steps:
+      # Paleta do portfolio giovannidassi.com.br:
+      #   verde primario #29A37A / verde escuro #1F7A5C / base escura #131720
       - name: Gerar SVG animado
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=%2329A37A&color_dots=%23131720,%231a4d3a,%231F7A5C,%2329A37A,%2358C79E
+            dist/snake.svg?color_snake=%231F7A5C&color_dots=%23ebfaf5,%23a8e6cf,%2358C79E,%2329A37A,%231F7A5C
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
