@@ -6,9 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanni--dassi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-dassi)
-[![E-mail](https://img.shields.io/badge/E--mail-giovannidassi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannidassi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(15)_99681--0270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996810270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-giovanni--dassi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-dassi) [![E-mail](https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannidassi@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-(15)_99681--0270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996810270)
 
 <img src="https://komarev.com/ghpvc/?username=giovannicdbusiness&label=Visitas%20no%20perfil&color=2563eb&style=flat-square" alt="visitas">
 
@@ -148,16 +146,16 @@ valor em reais.
 
 ---
 
-## GitHub
+## Atividade
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannicdbusiness&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=6EA8FE&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&locale=pt-br">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicdbusiness&layout=compact&langs_count=8&hide_border=true&title_color=6EA8FE&text_color=c9d1d9&bg_color=0d1117&locale=pt-br">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovannicdbusiness&bg_color=0d1117&color=6EA8FE&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contribuicoes%20recentes" alt="Grafico de contribuicoes">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovannicdbusiness&bg_color=0d1117&color=6EA8FE&line=7c3aed&point=ffffff&area=true&hide_border=true">
+<img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg" alt="Snake das contribuicoes">
 
-<img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg" alt="Contribuicoes">
+<sub>A maior parte do meu trabalho vive em repositórios privados de clientes e produto.<br>
+Os quatro projetos acima são o que eu posso mostrar por inteiro, código e tudo.</sub>
 
 </div>
 
@@ -169,8 +167,7 @@ valor em reais.
 
 Vagas remotas de front-end e projetos freelance de web e produto.
 
-[![LinkedIn](https://img.shields.io/badge/Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-dassi)
-[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996810270)
+[![LinkedIn](https://img.shields.io/badge/Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-dassi) [![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515996810270)
 
 </div>
 
