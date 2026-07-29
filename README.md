@@ -44,7 +44,11 @@ produção, e tocando projetos próprios de web e produto.
 
 <div align="center">
 
-<img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg" alt="Snake das contribuições">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake.svg">
+  <img width="98%" src="https://raw.githubusercontent.com/giovannicdbusiness/giovannicdbusiness/output/snake.svg" alt="Snake das contribuições">
+</picture>
 
 <sub>A maior parte do meu trabalho vive em repositórios privados de clientes e produto.<br>
 Os repos públicos aqui embaixo são o que eu posso mostrar por inteiro, código e tudo.</sub>
